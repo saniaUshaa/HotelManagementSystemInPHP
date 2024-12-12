@@ -18,7 +18,7 @@
 ## Features  
 
 ### User Features 
-- Login and Signup functionality.  
+- Login and Signup functionality - User is given an automated username to maintain uniqueness.  
 - Select hotels based on location and price range.  
 - View hotel details, discounts, services, and policies.  
 - Book hotels and make secure payments.  
