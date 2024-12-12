@@ -84,7 +84,7 @@
 - Filtered Hotel List (when clicked on 'Search' Button)
 ![filtered](https://github.com/user-attachments/assets/e5c25b28-f830-47ac-9894-8ae01eee8ff2)
 
-- Unfiltered Hotel List (when directly clicked on 'Get Started' Button)
+- Unfiltered Hotel List (when clicked on 'Get Started' Button)
 ![unfiltered](https://github.com/user-attachments/assets/16704007-1890-44ff-976e-e82ed35e33b0)
 
 - Hotel Room Details
