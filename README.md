@@ -70,10 +70,10 @@
 ![HomePage](https://github.com/user-attachments/assets/792c708d-1a24-49e4-a301-6bf53061c121)
 
 - SignUp page
-<img width="959" alt="signup_admin" src="https://github.com/user-attachments/assets/3b2b3d0b-c469-4893-82ba-be93ecbc7857" />
+![SignUp](https://github.com/user-attachments/assets/e0f74f7b-408e-4d01-9a38-e87d8942eedf)
 
 - Login page
-![logIn](https://github.com/user-attachments/assets/f25c2798-e63d-4bdc-a256-ad52dac02f29)
+![logIn](https://github.com/user-attachments/assets/0df0d455-c60e-4055-9067-5f03ccf5e863)
 
 2. Hotel Booking Page
 - Search Hotel
@@ -89,17 +89,17 @@
 ![roomDetails](https://github.com/user-attachments/assets/a8f46d9b-5643-4fe0-a8b5-a2b2b3408ffb)
 
 - Booking
-![Booking](https://github.com/user-attachments/assets/84e243b2-d19e-4d31-92f8-a349957e7a0d)
+![Booking](https://github.com/user-attachments/assets/2470e5bb-fe83-4bf7-9cf9-59cabbeb1d8f)
 
 - Payment
-![Payment](https://github.com/user-attachments/assets/2a7f9a12-1abd-40d8-b0b5-6c5aa305852f)
+![Payment](https://github.com/user-attachments/assets/e67fa708-eba3-4139-8aab-50d5041245c2)
 
 - User Account(display user details:booking,reviews,information)
-![userAccountInfo](https://github.com/user-attachments/assets/907a4d51-6940-48d6-82bc-d6e3c499ef51)
+![userAccountInfo](https://github.com/user-attachments/assets/6500c6ae-97a1-4781-b298-a0638f56f465)
 
-![addReview](https://github.com/user-attachments/assets/d0a60a41-3425-41bc-ad66-9c98a1a42b10)
+![addReview](https://github.com/user-attachments/assets/0f21577a-8a67-44fe-acd9-ceb896ebdce4)
 
-![reviewAdded](https://github.com/user-attachments/assets/23bccef5-543d-4a9b-8b52-fae7e665fce1)
+![reviewAdded](https://github.com/user-attachments/assets/ed0a13dd-3ad9-476b-a440-5581dbbba291)
 
 3. Admin
 - User Dashboard
