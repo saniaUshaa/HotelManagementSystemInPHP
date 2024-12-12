@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['action'])) {
         $phone = $_POST['phone'];
         $address = $_POST['loc'];
         $mang = $_POST['manager'];
-        $sql = "INSERT INTO Hotel (H_NAME, PHONENO, EMAIL, LOCATION_ID, MANAGER) VALUES ('$name', '$phone', '$email', '$rooms', '$address','$mang')";
+        $sql = "INSERT INTO Hotel (H_NAME, PHONENO, EMAIL, LOCATION_ID, MANAGER) VALUES ('$name', '$phone', '$email', '$address','$mang')";
         
         if (!$conn->query($sql)) {
             echo "Error: " . $conn->error;
