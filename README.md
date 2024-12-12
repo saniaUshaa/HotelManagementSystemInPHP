@@ -67,36 +67,60 @@
 
 1. Homepage
 - Home page
+![HomePage](https://github.com/user-attachments/assets/792c708d-1a24-49e4-a301-6bf53061c121)
 
 - SignUp page
+<img width="959" alt="signup_admin" src="https://github.com/user-attachments/assets/3b2b3d0b-c469-4893-82ba-be93ecbc7857" />
 
 - Login page
+![logIn](https://github.com/user-attachments/assets/f25c2798-e63d-4bdc-a256-ad52dac02f29)
 
 2. Hotel Booking Page
+- Search Hotel
+![filterHotels](https://github.com/user-attachments/assets/bf4c4a19-2e2a-48b6-a1e1-919e71ad7f68)
+
 - Filtered Hotel List
+![filtered](https://github.com/user-attachments/assets/e5c25b28-f830-47ac-9894-8ae01eee8ff2)
 
 - Unfiltered Hotel List
+![unfiltered](https://github.com/user-attachments/assets/16704007-1890-44ff-976e-e82ed35e33b0)
 
 - Hotel Room Details
+![roomDetails](https://github.com/user-attachments/assets/a8f46d9b-5643-4fe0-a8b5-a2b2b3408ffb)
 
 - Booking
+![Booking](https://github.com/user-attachments/assets/84e243b2-d19e-4d31-92f8-a349957e7a0d)
 
 - Payment
+![Payment](https://github.com/user-attachments/assets/2a7f9a12-1abd-40d8-b0b5-6c5aa305852f)
 
 - User Account(display user details:booking,reviews,information)
+![userAccountInfo](https://github.com/user-attachments/assets/907a4d51-6940-48d6-82bc-d6e3c499ef51)
+
+![addReview](https://github.com/user-attachments/assets/d0a60a41-3425-41bc-ad66-9c98a1a42b10)
+
+![reviewAdded](https://github.com/user-attachments/assets/23bccef5-543d-4a9b-8b52-fae7e665fce1)
 
 3. Admin
 - User Dashboard
+![admin_dashboard](https://github.com/user-attachments/assets/5de57e91-bbfa-4bfc-bc89-8bf5911f8783)
 
 - Manage Hotels
+![manage5](https://github.com/user-attachments/assets/3f101b16-9dae-4624-b9be-d9b5993a1b7c)
 
 - Manage Rooms
+![manage3](https://github.com/user-attachments/assets/4136f4bc-4f09-4dd9-b3e9-2e26e08c7f3b)
 
 - Manage Customers
+![manage2](https://github.com/user-attachments/assets/ea640463-9d29-47e5-a84e-8038801555f6)
 
 - Manage Employees
+![manage1](https://github.com/user-attachments/assets/f44e07b1-95f1-47f6-8c1d-e73669032f37)
 
 3. Extra Display Pages
+<img width="959" alt="offers_contactpage" src="https://github.com/user-attachments/assets/a61afada-11fd-4cf2-a14e-ffe4988352ab" />
+
+<img width="956" alt="policy" src="https://github.com/user-attachments/assets/e35b305f-f0f8-41a5-9ae4-a8d579c89aed" />
 
 ### Future Enhancements
 Implement online payment gateway for seamless transactions.
