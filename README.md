@@ -123,6 +123,8 @@
   ![manage4](https://github.com/user-attachments/assets/f9424c2b-67e5-4e58-bc06-433524ca7ef5)
 
 3. Extra Display Pages
+![image](https://github.com/user-attachments/assets/2a82c582-7892-41c0-a852-c53af15714a8)
+
 <img width="959" alt="offers_contactpage" src="https://github.com/user-attachments/assets/a61afada-11fd-4cf2-a14e-ffe4988352ab" />
 
 <img width="956" alt="policy" src="https://github.com/user-attachments/assets/e35b305f-f0f8-41a5-9ae4-a8d579c89aed" />
