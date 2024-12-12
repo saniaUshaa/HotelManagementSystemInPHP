@@ -72,8 +72,10 @@
 - SignUp page
 ![SignUp](https://github.com/user-attachments/assets/e0f74f7b-408e-4d01-9a38-e87d8942eedf)
 
+![signup_username](https://github.com/user-attachments/assets/a652790d-fc18-41c3-9700-fd8f9232269b)
+
 - Login page
-![logIn](https://github.com/user-attachments/assets/0df0d455-c60e-4055-9067-5f03ccf5e863)
+![logIn](https://github.com/user-attachments/assets/286c0ae4-edbd-4314-837b-65e45515c7ab)
 
 2. Hotel Booking Page
 - Search Hotel
